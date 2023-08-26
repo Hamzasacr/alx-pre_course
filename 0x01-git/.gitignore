@@ -1,0 +1,5 @@
+Open your terminal or command prompt.
+Create a .gitignore file by running the command: touch .gitignore
+Open the .gitignore file in a text editor.
+Add the following rule to ignore '~' files: *~
+Save the .gitignore file.
